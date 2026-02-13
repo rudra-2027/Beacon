@@ -6,16 +6,12 @@ GLA University, Mathura
 Department of Computer Engineering & Applications
 B.Tech CSE – 3rd Year Project
 
-Submitted By
+# Submitted By
 
 Vatsal Agarwal
-
 Sparsh Agarwal
-
 Rudra Gupta
-
 Sarthak Tiwari
-
 Yatender Kumar
 
 Under the Supervision of:
